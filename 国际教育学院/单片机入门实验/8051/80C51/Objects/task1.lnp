@@ -1,4 +1,0 @@
-".\Objects\STARTUP.obj",
-".\Objects\task1.obj" 
-TO ".\Objects\task1" 
-PRINT(".\Listings\task1.m51")
